@@ -1,7 +1,7 @@
 base   timestamp
 author Trenton Ivey
 email  Trenton.Ivey@gmail.com
-date   2016-02-14
+date   2021-03-25
 name   Timestamp Plugin
 desc   A plugin that adds a timestamp button to the edit toolbar
 url    http://www.dokuwiki.org/plugin:timestamp
